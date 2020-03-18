@@ -1,0 +1,7 @@
+C:/TI-software/UnitTest_test/test/CMakeFiles/UnitTest.dir
+C:/TI-software/UnitTest_test/test/CMakeFiles/install/local.dir
+C:/TI-software/UnitTest_test/test/CMakeFiles/install.dir
+C:/TI-software/UnitTest_test/test/CMakeFiles/edit_cache.dir
+C:/TI-software/UnitTest_test/test/CMakeFiles/rebuild_cache.dir
+C:/TI-software/UnitTest_test/test/CMakeFiles/list_install_components.dir
+C:/TI-software/UnitTest_test/test/CMakeFiles/install/strip.dir

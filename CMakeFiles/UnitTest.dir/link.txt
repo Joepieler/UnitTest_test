@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\UnitTest.dir/objects.a
+C:\TDM-GCC-64\bin\ar.exe cr CMakeFiles\UnitTest.dir/objects.a @CMakeFiles\UnitTest.dir\objects1.rsp
+C:\TDM-GCC-64\bin\g++.exe -std=c++17    -Wl,--whole-archive CMakeFiles\UnitTest.dir/objects.a -Wl,--no-whole-archive  -o UnitTest.exe -Wl,--out-implib,libUnitTest.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\UnitTest.dir\linklibs.rsp
