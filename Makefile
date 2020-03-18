@@ -48,10 +48,10 @@ RM = /usr/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /mnt/d/git/UnitTest_test
+CMAKE_SOURCE_DIR = /var/lib/jenkins/workspace/Test/
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /mnt/d/git/UnitTest_test
+CMAKE_BINARY_DIR = /var/lib/jenkins/workspace/Test/
 
 #=============================================================================
 # Targets provided globally by CMake.
@@ -124,9 +124,9 @@ list_install_components/fast: list_install_components
 
 # The main all target
 all: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/git/UnitTest_test/CMakeFiles /mnt/d/git/UnitTest_test/CMakeFiles/progress.marks
+	$(CMAKE_COMMAND) -E cmake_progress_start /var/lib/jenkins/workspace/Test//CMakeFiles /var/lib/jenkins/workspace/Test//CMakeFiles/progress.marks
 	$(MAKE) -f CMakeFiles/Makefile2 all
-	$(CMAKE_COMMAND) -E cmake_progress_start /mnt/d/git/UnitTest_test/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /var/lib/jenkins/workspace/Test//CMakeFiles 0
 .PHONY : all
 
 # The main clean target
