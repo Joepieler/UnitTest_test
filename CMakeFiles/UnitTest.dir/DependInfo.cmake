@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/TI-software/UnitTest_test/test/main.cpp" "C:/TI-software/UnitTest_test/test/CMakeFiles/UnitTest.dir/main.cpp.obj"
+  "/mnt/d/git/UnitTest_test/main.cpp" "/mnt/d/git/UnitTest_test/CMakeFiles/UnitTest.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,9 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/UnitTest.dir/main.cpp.obj"
-  "UnitTest.exe"
-  "UnitTest.exe.manifest"
+  "CMakeFiles/UnitTest.dir/main.cpp.o"
   "UnitTest.pdb"
-  "libUnitTest.dll.a"
+  "UnitTest"
 )
 
 # Per-language clean rules from dependency scanning.
