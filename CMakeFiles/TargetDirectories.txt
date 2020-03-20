@@ -1,7 +1,0 @@
-/var/lib/jenkins/workspace/Test//CMakeFiles/install/strip.dir
-/var/lib/jenkins/workspace/Test//CMakeFiles/install/local.dir
-/var/lib/jenkins/workspace/Test//CMakeFiles/UnitTest.dir
-/var/lib/jenkins/workspace/Test//CMakeFiles/edit_cache.dir
-/var/lib/jenkins/workspace/Test//CMakeFiles/rebuild_cache.dir
-/var/lib/jenkins/workspace/Test//CMakeFiles/install.dir
-/var/lib/jenkins/workspace/Test//CMakeFiles/list_install_components.dir
