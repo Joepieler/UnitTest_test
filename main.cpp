@@ -1,7 +1,7 @@
 #include <ostream>
 
 #define CATCH_CONFIG_MAIN
-#include "../externals/catch2/catch.hpp"
+#include "externals/catch2/catch.hpp"
 
 TEST_CASE("test 1") {
 	int a = 1;
