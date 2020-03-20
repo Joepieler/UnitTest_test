@@ -4,13 +4,13 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'Building..'
-				cmake /var/lib/jenkins/workspace/Test
+				 sh 'cd /var/lib/jenkins/workspace/Test && g++ -std=c++14 -o test.exe main.cpp'
             }
         }
         stage('Test') {
             steps {
                 echo 'Testing..'
+                sh'cd /var/lib/jenkins/workspace/Test && ./test.exe'
             }
         }
     }
