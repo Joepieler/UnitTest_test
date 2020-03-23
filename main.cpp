@@ -9,10 +9,3 @@ TEST_CASE("test 1") {
 	REQUIRE(a == 1 );
 	REQUIRE(b == 2);
 }
-
-TEST_CASE("test 2") {
-	int a = 2;
-	int b = 3;
-	REQUIRE(a == 1 );
-	REQUIRE(b == 2);
-}
